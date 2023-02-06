@@ -4,5 +4,5 @@ Wanted to try and make an emulator for a while. I tried the NES first but there 
 
 <h2> Screenshots </h2>
 <img width="258" alt="Screen Shot 2023-02-06 at 5 51 54 PM" src="https://user-images.githubusercontent.com/84037300/217048030-0c390745-dcad-4787-8726-965f71706a3b.png">
-<img width="292" alt="Screen Shot 2023-02-06 at 5 55 45 PM" src="https://user-images.githubusercontent.com/84037300/217048301-59822c33-eeda-4bcb-a041-1272d4bd93c5.png">
+<img width="258" alt="Screen Shot 2023-02-06 at 5 55 45 PM" src="https://user-images.githubusercontent.com/84037300/217048301-59822c33-eeda-4bcb-a041-1272d4bd93c5.png">
 
